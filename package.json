@@ -1,0 +1,16 @@
+{
+  "name": "aznoqmous/typing-text",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+  },
+  "main": "index.js"
+}
